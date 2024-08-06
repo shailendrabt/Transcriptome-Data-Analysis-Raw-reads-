@@ -1,5 +1,7 @@
-# RNA-Seq-data-analysis
+# RNA-Seq-data-analysis Workflow
 
+
+<img align="right" alt="coding" width ="800" src="https://media.licdn.com/dms/image/D5612AQFwcfs1V8Ssjw/article-inline_image-shrink_1500_2232/0/1674382005577?e=1727913600&v=beta&t=_w7MVIQb8EW8VOUTot--FDrSJNyxWnwneOY2pKX4AkI">
 
 Analyzing RNA-seq data involves several steps to process raw sequencing reads, quantify gene expression levels, identify differential expression, and interpret biological significance. Here's a step-by-step guide to RNA-seq data analysis:
 
